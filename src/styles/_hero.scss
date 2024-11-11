@@ -37,9 +37,9 @@
     }
 
     @media (max-width:640px) {
-padding: 40px 0;
+        padding: 40px 0;
 
-        %__logo {
+        &__logo {
             height: 40px;
         }
 
